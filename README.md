@@ -18,7 +18,7 @@ The relevant Kicad files and bill of materials can be found in the `\hardware` f
 
 The folowing schematic each of the components used in the controller and how they connect. The Arduino Nano is connected to the color spectrometer and LCD screen via I2C. 
 
- ![](/images/ Schematic_v1.1.png)
+ ![](/images/Schematic_v1.1.png)
  
  
 ### PCB Layout
