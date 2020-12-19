@@ -1,7 +1,5 @@
 # Color Sensing LED Strip
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/E5Jg4Wm9b7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+[![Color Sensing LED Strip Demo](http://img.youtube.com/vi/J2j3cKCgywg/0.jpg)](http://www.youtube.com/watch?v=J2j3cKCgywg "Color Sensing LED Strip Demo")
  
  https://youtu.be/J2j3cKCgywg
