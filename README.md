@@ -5,7 +5,7 @@ This repository conatins the documentation and relevant files for the Color Sens
 <img src="/images/controller.jpg" alt="drawing" width="500"/>
 
 
-## Project Overview
+## Overview
 The Color Sensing LED Strip controller enables the user to set the color of an LED strip by choosing to scan a light source of a desired color to replicate (such as from a phone), select the desired RGB values, or choose from a preset selection of colors, including the last color scanned. Please review the video below or [click here]( https://youtu.be/J2j3cKCgywg) for a demo of the controller in action.
 
 
