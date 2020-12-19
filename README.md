@@ -1,6 +1,6 @@
 # Color Sensing LED Strip
 
-This repository conatins the documentation and relevant files for the Color Sensing LED Strip controller. 
+This repository conatins the documentation and relevant files for the Color Sensing LED Strip controller, a controller that allows for the user to scan a desired color to set an LED strip to the color, as well as allowing other methods of user input. 
 
 <img src="/images/controller.jpg" alt="drawing" width="500"/>
 
