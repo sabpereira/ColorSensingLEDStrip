@@ -8,7 +8,29 @@ The Color Sensing LED Strip controller enables the user to set the color of a Do
 
 [![Color Sensing LED Strip Demo](http://img.youtube.com/vi/J2j3cKCgywg/0.jpg)](http://www.youtube.com/watch?v=J2j3cKCgywg "Color Sensing LED Strip Demo")
 
-The user interface displays text and menus OLED ".96 display, with selections made through the use or a rotary encoder. 
+The user interface displays text and menus OLED ".96 display, with selections made through the use of a rotary encoder. 
+
+## Hardware
+
+The relevant Kicad files and bill of materials can be found in the `\hardware` folder of this repository.
+
+### Schematic 
+
+The folowing schematic each of the components used in the controller and how they connect. The Arduino Nano is connected to the color spectrometer and LCD screen via I2C. 
+
+ ![](/images/ Schematic_v1.1.png)
+ 
+ 
+### PCB Layout
+
+The PCB layout was planned out for user convenience. The power supply is connected on the left, with the LEDs connected on the right for ease of setup wherever the LEDs are intented to be placed. The LCD screen and rotary encoder are placed towards the bottom of the board for easy access by the user, while the color spectrometer is placed high on the board such that the LCD screen is still visible while the scan is taking place.
+
+ ![](/images/PCB_v1.0.png)
+ 
+
+  
+  
+
 
 <!---
 
